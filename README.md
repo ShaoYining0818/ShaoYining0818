@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ShaoYining
+- 👋 Hi, I’m ShaoYining.Now I am a graduate student of Hangzhou University of Electronic Science and Technology.
 - 👀 I’m interested in Deep Learning/Transfer Learning/IFD
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I am open to collaboration, feel free to contact me via Email!
 - 📫 Email:222040190@hdu.edu.cn
 
 <!---
